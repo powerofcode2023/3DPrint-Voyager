@@ -6,7 +6,7 @@ This project aims to develop an e-commerce platform using Django for the backend
 
 1. Clone this repository to your local machine:
 
-git clone <[repository_url](https://github.com/powerofcode2023/3DPrint-Voyager.git)>
+git clone <[https://github.com/powerofcode2023/3DPrint-Voyager.git]>
 
 
 2. Navigate to the project directory:
