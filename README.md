@@ -24,9 +24,9 @@ cd /mnt/c/xampp/htdocs/3dprint-voyager
   source env/bin/activate
   ```
 
-4. Install Python dependencies:
+4. Install django:
 
-pip install -r requirements.txt
+pip install django
 
 
 5. Install Node.js dependencies for React:
